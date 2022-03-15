@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b76becc3.css",
+    "main.js": "/static/js/main.ac103931.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/waldorf.jpg": "/static/media/waldorf.ea265e407e334a515850.jpg",
+    "static/media/griega.jpg": "/static/media/griega.55aaa8bbc013e22ae690.jpg",
+    "static/media/vegetariano.jpeg": "/static/media/vegetariano.1f0196e5c25df47a7f95.jpeg",
+    "static/media/bolonesa.jpeg": "/static/media/bolonesa.085549d35711756dc668.jpeg",
+    "static/media/panajo.jpeg": "/static/media/panajo.6896ac79b3253cff3f2d.jpeg",
+    "static/media/choripapa.jpeg": "/static/media/choripapa.19eaa1fac83dff099aaa.jpeg",
+    "static/media/lpollo.jpeg": "/static/media/lpollo.2688d2ccb04745f53596.jpeg",
+    "static/media/carbonara.jpeg": "/static/media/carbonara.3615c5a65f9fb567a5d8.jpeg",
+    "static/media/brocheta.jpeg": "/static/media/brocheta.92e66618335dfadc92b3.jpeg",
+    "static/media/caprese.jpg": "/static/media/caprese.6fd400d1b15b9784fa59.jpg",
+    "static/media/jugo.jpg": "/static/media/jugo.4587bccd03fe61f7b64a.jpg",
+    "static/media/nuggets.jpeg": "/static/media/nuggets.fbc0407dd30c836c174e.jpeg",
+    "static/media/alfredo.jpeg": "/static/media/alfredo.7bb14f4c78edf60e9514.jpeg",
+    "static/media/cesar.jpg": "/static/media/cesar.05d198203c68da392cdb.jpg",
+    "static/media/gas.jpeg": "/static/media/gas.896d2afea0643ea62a5d.jpeg",
+    "static/media/lpolloto.jpeg": "/static/media/lpolloto.902b0f12539bf177b903.jpeg",
+    "static/media/lcarne.jpeg": "/static/media/lcarne.9ae9b48dd304869e3fb8.jpeg",
+    "static/media/lvegetariana.jpeg": "/static/media/lvegetariana.eae16aa8d874fa1e738e.jpeg",
+    "static/media/logo.png": "/static/media/logo.feadad6e44c98de6b947.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/index.html",
+    "static/media/favicon.ico": "/static/media/favicon.1ef67bc1ddd390846e61.ico",
+    "main.b76becc3.css.map": "/static/css/main.b76becc3.css.map",
+    "main.ac103931.js.map": "/static/js/main.ac103931.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76becc3.css",
+    "static/js/main.ac103931.js"
+  ]
+}
